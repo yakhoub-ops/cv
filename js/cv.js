@@ -1,5 +1,3 @@
-// animation barres
-
 window.onload = () => {
     const bars = document.querySelectorAll(".progress1 div, .progress div");
 
